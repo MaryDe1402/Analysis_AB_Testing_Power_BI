@@ -33,3 +33,4 @@ All metrics are deeply broken down by **User Age Groups** (`1-25`, `25-34`, `3.3
 *   **Dashboard & Visualization:** Power BI Desktop
 *   **Data Processing:** Power Query & DAX formulas
 
+Use link to view report directly:https://docs.google.com/document/d/1dK57fOBvklYLE-_mDWyvTmtxS0osqQ0q/edit?usp=sharing&ouid=114673630093720343947&rtpof=true&sd=true
